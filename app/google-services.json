@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "553536697181",
+    "firebase_url": "https://ginali-e99f0.firebaseio.com",
+    "project_id": "ginali-e99f0",
+    "storage_bucket": "ginali-e99f0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:553536697181:android:0e66b2275968b21b",
+        "android_client_info": {
+          "package_name": "com.example.shlom.ginali"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "553536697181-pj8k66akcj65k2k394jofiiffadtq4e0.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.shlom.ginali",
+            "certificate_hash": "3648cd315f639ebea1f9ca1fb85e38789924ce69"
+          }
+        },
+        {
+          "client_id": "553536697181-nr8jcmgdigrkkqgp8or9ctiipvqfmpca.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCqT10zpigPfq08y4RqHoJ8DlM_7g3Ga-s"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "553536697181-nr8jcmgdigrkkqgp8or9ctiipvqfmpca.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:tools="http://schemas.android.com/tools"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <PreferenceCategory android:title="@string/users">
+
+        <EditTextPreference
+            android:defaultValue="Default value"
+            android:key="edit_text_preference_1"
+            android:selectAllOnFocus="true"
+            android:singleLine="true"
+            android:title="@string/username" />
+        <ListPreference
+            android:defaultValue="1"
+            android:entries="@array/langaugeList"
+            android:entryValues="@array/langaugeList"
+            android:key="list_preference_1"
+            android:summary="@string/changeLanguage"
+            android:title="List preference" />
+    </PreferenceCategory>
+
+</PreferenceScreen>

@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">GinaLi</string>
+    <string name="google_maps_key">AIzaSyAJpGXZpYXqY_-AXoCqCEKedAG9AyiW-Q8</string>
+    <string name="title_activity_main2">Main2Activity</string>
+    <string name="title_home">Favorites</string>
+    <string name="title_dashboard">Map</string>
+    <string name="title_notifications">Nearby Parks</string>
+    <string name="too_far">Too Far</string>
+    <string name="cant_find_location">Cannot Establish Current Location</string>
+    <string name="distance">Distance</string>
+    <string name="facebook_app_id">175749446665825</string>
+    <string name="fb_login_protocol_scheme">fb175749446665825</string>
+    <string name="dog_friendly">Dog Friendly</string>
+    <string name="handicap_friendly">Handicap Accessible</string>
+    <string name="has_parking">Has Parking</string>
+    <string name="playground">Has a Playground</string>
+    <string name="review_string">Please give us a review</string>
+    <string name="route_type">Choose route type</string>
+    <string name="users">User Information</string>
+    <string name="username">Username</string>
+    <string name="language_hebrew">Hebrew</string>
+    <string name="language_english">English</string>
+    <string name="language_arabic">Arabic</string>
+    <string name="changeLanguage">Change Language</string>
+    <string name="settings">Settings</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
